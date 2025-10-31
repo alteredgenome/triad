@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:iris-worldwide.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
